@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="TypeScript" ext="ts" udlVersion="1.0">
+    <UserLang name="TypeScriptChatGPT2" ext="ts" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
@@ -27,7 +27,7 @@
             <Keywords name="Keywords1">break case catch continue debugger default delete do else finally for goto if in native return short static switch synchronized throw throws transient try volatile while with prototype </Keywords>
             <Keywords name="Keywords2">abstract class export extends final int interface long new package private protected public super this implements import instanceof console</Keywords>
             <Keywords name="Keywords3">boolean byte char double enum float void number string</Keywords>
-            <Keywords name="Keywords4">const var function typeof true false</Keywords>
+            <Keywords name="Keywords4">const var function typeof true false let</Keywords>
             <Keywords name="Keywords5">log warn error info debug table assert trace group groupCollapsed time timeLog timeEnd count countReset dir dirxml profile profileEnd clear</Keywords>
             <Keywords name="Keywords6"></Keywords>
             <Keywords name="Keywords7"></Keywords>
