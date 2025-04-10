@@ -30,8 +30,6 @@ You can further customize:
 - Keyword groups
 - Comment formats
 
-> Each `.xml` file corresponds to one UDL definition.
-
 ## 🧩 Customization Tips
 
 - Use **Define your language...** in Notepad++ to tweak styles.
